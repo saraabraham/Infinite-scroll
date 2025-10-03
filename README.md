@@ -7,7 +7,7 @@ A simple project demonstrating **infinite scrolling** where more images are load
 ## 🚀 Live Demo
 
 View the site here:  
-[Infinite Scroll on GitHub Pages](https://saraabraham.github.io/infinite-scroll/)
+[Infinite Scroll on GitHub Pages](https://saraabraham.github.io/Infinite-scroll/)
 
 ---
 
